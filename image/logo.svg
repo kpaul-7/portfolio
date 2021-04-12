@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210" height="52" viewBox="0 0 210 52">
+  <g id="Total_logo" data-name="Total logo" transform="translate(-130 -24)">
+    <g id="Logo">
+      <text id="Kpaul" transform="translate(140 24)" fill="#222831" font-size="46" font-family="Garamond-Bold, Garamond" font-weight="700"><tspan x="0" y="40">Kpaul</tspan></text>
+      <text id="_7" transform="translate(259 24)" fill="#00adb5" font-size="46" font-family="Garamond-Bold, Garamond" font-weight="700"><tspan x="0" y="40">_7</tspan></text>
+    </g>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="28" height="4" rx="2" transform="translate(130 69)" fill="#222831"/>
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="45" height="4" rx="2" transform="translate(187 69)" fill="#222831"/>
+    <rect id="Rectangle_3" data-name="Rectangle 3" width="21" height="4" rx="2" transform="translate(286 69)" fill="#00adb5"/>
+    <g id="flag" transform="translate(-10 1)">
+      <rect id="Rectangle_9" data-name="Rectangle 9" width="31" height="10" rx="5" transform="translate(319 31)" fill="#f93"/>
+      <rect id="Rectangle_10" data-name="Rectangle 10" width="31" height="9" rx="4.5" transform="translate(319 41)" fill="#fff"/>
+      <rect id="Rectangle_11" data-name="Rectangle 11" width="31" height="9" rx="4.5" transform="translate(319 50)" fill="#138808"/>
+    </g>
+  </g>
+</svg>

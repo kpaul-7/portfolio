@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="17" viewBox="0 0 28 17">
+  <g id="mobile_nav_icon" data-name="mobile nav icon" transform="translate(-305 -32)">
+    <g id="Rectangle_26" data-name="Rectangle 26" transform="translate(305 32)" fill="none" stroke="#00adb5" stroke-width="1">
+      <rect width="28" height="5" rx="2.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="27" height="4" rx="2" fill="none"/>
+    </g>
+    <g id="Rectangle_27" data-name="Rectangle 27" transform="translate(305 38)" fill="none" stroke="#00adb5" stroke-width="1">
+      <rect width="28" height="5" rx="2.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="27" height="4" rx="2" fill="none"/>
+    </g>
+    <g id="Rectangle_28" data-name="Rectangle 28" transform="translate(305 44)" fill="none" stroke="#00adb5" stroke-width="1">
+      <rect width="28" height="5" rx="2.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="27" height="4" rx="2" fill="none"/>
+    </g>
+  </g>
+</svg>
