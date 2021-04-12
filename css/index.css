@@ -21,7 +21,6 @@ body {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  display: none;
   height: 2em;
   position: fixed;
   z-index: 1000;
