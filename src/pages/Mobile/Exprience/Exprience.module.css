@@ -1,0 +1,37 @@
+.Exprience {
+    padding: 8px 16px;
+    height: 100%;
+    width: 100%;
+    background-color: white;
+}
+
+.Heading {
+    border-bottom: 1px solid black;
+    margin-bottom: 20px;
+    margin-top: 16px;
+    padding-bottom: 5px;
+}
+
+.Heading p {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.OneExprience {
+    padding-bottom: 10px;
+    border-bottom: 1px solid gray;
+}
+
+.OneExprience * {
+    margin: 3px 0;
+}
+
+.Company p {
+    font-size: 1.2em;
+    font-weight: bold;
+
+}
+
+.Role {
+    font-style: italic;
+}

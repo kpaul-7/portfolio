@@ -1,0 +1,7 @@
+.Battary{
+    width: 18px;
+    height: 10px;
+    border-radius: 8px;
+    background: linear-gradient(90deg, white 40%,var(--battaryColor) 60%);
+    border: 0.2px solid var(--battaryColor);
+}

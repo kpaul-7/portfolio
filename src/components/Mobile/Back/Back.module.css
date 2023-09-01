@@ -1,0 +1,14 @@
+.BackDiv{
+    width: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.BackDiv i{
+    display: inline-block;
+    margin-right: 10px;
+}
+.Back a{
+    text-decoration: none;
+    color: inherit;
+}

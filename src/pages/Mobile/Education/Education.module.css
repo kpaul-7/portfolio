@@ -1,0 +1,58 @@
+.Education{
+    padding: 8px 16px;
+    background-color: white;
+    width: 100%;
+    height: 100%;
+}
+.Title {
+    margin: 10px auto;
+    border-bottom: 2px solid #279EFF;
+}
+.Title p{
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #279EFF;
+} 
+.OneDegree{
+    padding: 8px 16px;
+    border-bottom: 1px solid gainsboro;
+    margin-bottom: 16px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: 12px;
+}
+.OneDegree *{
+    margin: 2px 0;
+}
+.Degree p{
+    font-size: 1.2em;
+    color: #279EFF;
+}
+.Stream{
+    color: #279EFF;
+}
+.EducationYear{
+    color: #75C2F6;
+}
+.Details{
+    display: flex;
+    justify-content: space-between;
+    font-size: 1em;
+    font-size: 0.9em;
+}
+.InstituteDetails p{
+    font-size: 0.9em;
+    font-style: italic;
+    color: #4F709C;
+}
+.KeyNote p{
+    font-size: 0.8em;
+    color: #213555;
+}
+.EducationYear{
+    font-style: italic;
+}
+.End{
+    width: 100%;
+    margin-top: 20px;
+    border-bottom: 1px solid #279EFF;
+}

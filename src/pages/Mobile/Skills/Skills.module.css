@@ -1,0 +1,40 @@
+.Skills{
+    height: 100%;
+    width: 100%;
+    background-color: white;
+    padding: 8px 16px;
+}
+
+.Heading{
+ border-bottom: 1px solid #279EFF;
+ margin-bottom: 10px;
+ color: #279EFF;
+}
+.Heading p{
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-top: 8px;
+}
+.Skill{
+    margin: 4px 0;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding: 16px;
+    border-radius: 12px;
+    margin-bottom: 16px;
+}
+.SkillName{
+    font-weight: bold;
+    font-size: 1.2em;
+    color: #279EFF;
+    /* text-decoration: underline; */
+}
+.Skill li{
+    display: block;
+    font-style: italic;
+    margin: 3px 20px;
+    color: #146C94;
+}
+.End{
+    border-bottom: 1px solid #279EFF;
+    margin-top: 20px;
+}

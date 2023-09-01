@@ -1,0 +1,15 @@
+.HomeScreen {
+    height: 100%;
+    padding: 16px;
+    border-radius: 0 0 8px 8px;
+    background-image: url(../../../assets/img/wallpaper1.jpg);
+    background-size: cover;
+    display: flex;
+    flex-direction: column-reverse;
+    gap: 10px;
+}
+
+.HomeScreenRow {
+    display: flex;
+    justify-content: space-between;
+}
